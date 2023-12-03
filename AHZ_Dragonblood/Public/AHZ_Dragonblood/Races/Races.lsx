@@ -8,11 +8,11 @@
                     <attribute id="Description" type="TranslatedString" handle="h42022989g8d17g4285g9c15g4e011210ac4e" version="2"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h0b441ad7gb002g454egaa82g03ae0db15c6c" version="2"/>
                     <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f"/>
-                    <attribute id="Name" type="FixedString" value="Dragonborn"/>
+                    <attribute id="Name" type="FixedString" value="Dragonblood"/>
                     <attribute id="ParentGuid" type="guid" value="899d275e-9893-490a-9cd5-be856794929f"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="e2472b4f-682a-4ac8-b11c-723f921fd7a1"/>
                     <attribute id="RaceEquipment" type="FixedString" value="EQ_Underwear_Dragonborn"/>
-                    <attribute id="UUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="UUID" type="guid" value="cb8c572b-a8af-4f28-a672-c43d895aa673"/>
                     <children>
                         <node id="ExcludedGods">
                             <attribute id="Object" type="guid" value="5d733ec3-ad9a-4d26-bc9c-46a597b109b3"/>
@@ -668,10 +668,10 @@
                     <attribute id="Description" type="TranslatedString" handle="h18849b0bg67d1g4acfga9feg28cdadf14e99" version="2"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="he03886fdgfbf1g4a91gaa22g37b787d39576" version="2"/>
                     <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f"/>
-                    <attribute id="Name" type="FixedString" value="WhiteDragonborn"/>
-                    <attribute id="ParentGuid" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="Name" type="FixedString" value="WhiteDragonblood"/>
+                    <attribute id="ParentGuid" type="guid" value="cb8c572b-a8af-4f28-a672-c43d895aa673"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="91577000-c8f7-465b-b56f-eb6d87d173d2"/>
-                    <attribute id="UUID" type="guid" value="cbe10ab9-11a6-450e-844a-175bcca25de7"/>
+                    <attribute id="UUID" type="guid" value="6b6e7cdd-7efe-4bf2-b04e-4e0bdcec7a3d"/>
                     <children>
                         <node id="EyeColors">
                             <attribute id="Object" type="guid" value="b3c6b283-d4ba-48e1-99fc-e45623880b33"/>

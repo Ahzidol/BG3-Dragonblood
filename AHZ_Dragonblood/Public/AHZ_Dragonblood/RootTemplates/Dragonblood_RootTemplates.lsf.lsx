@@ -5,6 +5,46 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="328c0147-6024-8dea-3cfb-20c8a0c326a5" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Dragonborn_Male" />
+					<attribute id="Icon" type="FixedString" value="328c0147-6024-8dea-3cfb-20c8a0c326a5-_(Icon_Dragonborn_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LightID" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="58e12bc7-bdbd-4734-b47d-0ebd01b1f6cf" />
+					<attribute id="Name" type="LSString" value="BASE_Dragonborn" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5b60061e-df2d-4c4f-bfe3-2faf517d581d" />
+					<attribute id="Race" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+					<attribute id="Stats" type="FixedString" value="Dragonborn_Melee" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="LocomotionParams">
+							<attribute id="WorldClimbingBlendspace_DownA" type="FixedString" value="575b6b01-b21a-62ff-7883-433fe47bf23a" />
+							<attribute id="WorldClimbingBlendspace_DownB" type="FixedString" value="4a6f8da3-6276-967f-8f1a-13f41c17c949" />
+							<attribute id="WorldClimbingBlendspace_UpA" type="FixedString" value="b566ed99-b547-2b59-7c7e-7ab982e9675b" />
+							<attribute id="WorldClimbingBlendspace_UpB" type="FixedString" value="6944f681-0d92-8f01-8c1d-f76e5505d236" />
+							<attribute id="WorldClimbingBlendspace_UpBHeight" type="float" value="1.35" />
+						</node>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="41c6b563-8656-9f37-576e-f1629d64f96d" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="0a79a905-d41f-401f-a0e4-a2401143fc17" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="a4d5deef-b773-4ac8-83b2-21c5e9582934" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h2dccc0c3gf40bg4eb4gaa33ge160944d95ef" version="1" />
 					<attribute id="EquipmentRace" type="guid" value="9a8bbeba-850c-402f-bac5-ff15696e6497" />
@@ -44,6 +84,58 @@
 							<children>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="1beb597d-0011-77a7-fab7-02cf9eb23b70" />
+					<attribute id="Icon" type="FixedString" value="1beb597d-0011-77a7-fab7-02cf9eb23b70-_(Icon_Dragonborn_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="87930b5f-a8bf-4fbf-ba7a-b1d37bd7deb0" />
+					<attribute id="Name" type="LSString" value="Dragonborn_Male_Player" />
+					<attribute id="ParentTemplateId" type="FixedString" value="97ad09df-c188-4e39-bfd0-91c95c6379c4" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="04cd2719-4f3a-4799-a710-e38effb0be52" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroDragonbornMale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692652" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="4334a17f-7139-8527-8be3-735c2ceae42a" />
+					<attribute id="Icon" type="FixedString" value="4334a17f-7139-8527-8be3-735c2ceae42a-_(Icon_Dragonborn_Female)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="61943f98-adab-4bfd-91e1-9c20557edc73" />
+					<attribute id="Name" type="LSString" value="Dragonborn_Female_Player" />
+					<attribute id="ParentTemplateId" type="FixedString" value="366faff6-1e72-45c8-8d03-4eeaee6444a4" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="b968af7c-502a-5036-37cd-ad45fde0e818" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroDragonbornFemale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692652" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
 								</node>
 							</children>
 						</node>

@@ -11,7 +11,7 @@
 					<attribute id="Icon" type="FixedString" value="328c0147-6024-8dea-3cfb-20c8a0c326a5-_(Icon_Dragonborn_Male)" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LightID" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="58e12bc7-bdbd-4734-b47d-0ebd01b1f6cf" />
+					<attribute id="MapKey" type="FixedString" value="7b9bee39-56f7-424d-b957-6c5a20ebb158" />
 					<attribute id="Name" type="LSString" value="BASE_Dragonblood" />
 					<attribute id="ParentTemplateId" type="FixedString" value="5b60061e-df2d-4c4f-bfe3-2faf517d581d" /> <!-- BASE_Bipedal_Civil Template -->
 					<attribute id="Race" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
@@ -52,9 +52,9 @@
 					<attribute id="EquipmentRace" type="guid" value="9a8bbeba-850c-402f-bac5-ff15696e6497" />
 					<attribute id="Icon" type="FixedString" value="c960d76c-3f4b-50f2-d3a4-1d5ebbf52a19-_(Icon_Dragonborn_Male)" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="97ad09df-c188-4e39-bfd0-91c95c6379c4" />
+					<attribute id="MapKey" type="FixedString" value="ddb5b56f-c2dc-445e-b57a-a2c42cba3124" />
 					<attribute id="Name" type="LSString" value="BASE_Dragonblood_Male" />
-					<attribute id="ParentTemplateId" type="FixedString" value="58e12bc7-bdbd-4734-b47d-0ebd01b1f6cf" /> <!-- BASE_Dragonblood Template -->
+					<attribute id="ParentTemplateId" type="FixedString" value="7b9bee39-56f7-424d-b957-6c5a20ebb158" /> <!-- BASE_Dragonblood Template -->
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
@@ -76,9 +76,9 @@
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Dragonborn_Female" />
 					<attribute id="Icon" type="FixedString" value="958d47d8-7de8-8c49-5979-0186ca3506e3-_(Icon_Dragonborn_Female)" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="366faff6-1e72-45c8-8d03-4eeaee6444a4" />
+					<attribute id="MapKey" type="FixedString" value="cc537d76-c16b-4cd7-bc3f-35436646ed63" />
 					<attribute id="Name" type="LSString" value="BASE_Dragonblood_Female" />
-					<attribute id="ParentTemplateId" type="FixedString" value="58e12bc7-bdbd-4734-b47d-0ebd01b1f6cf" /> <!-- BASE_Dragonblood Template -->
+					<attribute id="ParentTemplateId" type="FixedString" value="7b9bee39-56f7-424d-b957-6c5a20ebb158" /> <!-- BASE_Dragonblood Template -->
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
 					<children>
@@ -97,9 +97,9 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="adec83f6-2900-4fa9-99ac-14e0a96c27e8" /> <!-- Dragonblood_Male CharacterVisualBank -->
 					<attribute id="Icon" type="FixedString" value="1beb597d-0011-77a7-fab7-02cf9eb23b70-_(Icon_Dragonborn_Male)" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="87930b5f-a8bf-4fbf-ba7a-b1d37bd7deb0" />
+					<attribute id="MapKey" type="FixedString" value="fe03d23c-0517-41ce-8ac5-1e0c5e279a39" />
 					<attribute id="Name" type="LSString" value="Dragonblood_Male_Player" />
-					<attribute id="ParentTemplateId" type="FixedString" value="97ad09df-c188-4e39-bfd0-91c95c6379c4" /> <!-- BASE_Dragonblood_Male Template -->
+					<attribute id="ParentTemplateId" type="FixedString" value="ddb5b56f-c2dc-445e-b57a-a2c42cba3124" /> <!-- BASE_Dragonblood_Male Template -->
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="04cd2719-4f3a-4799-a710-e38effb0be52" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="Stats" type="FixedString" value="HeroDragonbornMale" />
@@ -124,9 +124,9 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="d6710be1-f8d5-4b93-8090-d3b8d97b95e1" /> <!-- Dragonblood_Female CharacterVisualBank -->
 					<attribute id="Icon" type="FixedString" value="4334a17f-7139-8527-8be3-735c2ceae42a-_(Icon_Dragonborn_Female)" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="61943f98-adab-4bfd-91e1-9c20557edc73" />
+					<attribute id="MapKey" type="FixedString" value="ee0d7289-cad1-4a06-b280-1e3584265a01" />
 					<attribute id="Name" type="LSString" value="Dragonblood_Female_Player" />
-					<attribute id="ParentTemplateId" type="FixedString" value="366faff6-1e72-45c8-8d03-4eeaee6444a4" /> <!-- BASE_Dragonblood_Female Template -->
+					<attribute id="ParentTemplateId" type="FixedString" value="cc537d76-c16b-4cd7-bc3f-35436646ed63" /> <!-- BASE_Dragonblood_Female Template -->
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="b968af7c-502a-5036-37cd-ad45fde0e818" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="Stats" type="FixedString" value="HeroDragonbornFemale" />
@@ -151,9 +151,9 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="5b972261-b9db-4535-800b-a0436377b177" /> <!-- Dragonblood_White_Male CharacterVisualBank -->
 					<attribute id="Icon" type="FixedString" value="6fa0f8f5-f579-64bd-2a8e-800184fc28aa-_(Icon_Dragonborn_Male)" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="1f69a29f-8284-4d1d-a0e6-fba9fb02ac56" />
+					<attribute id="MapKey" type="FixedString" value="c2a85718-43c3-47b0-b616-abbe45070e16" />
 					<attribute id="Name" type="LSString" value="Dragonblood_White_Male_Player" />
-					<attribute id="ParentTemplateId" type="FixedString" value="87930b5f-a8bf-4fbf-ba7a-b1d37bd7deb0" /> <!-- Dragonblood_Male_Player Template -->
+					<attribute id="ParentTemplateId" type="FixedString" value="fe03d23c-0517-41ce-8ac5-1e0c5e279a39" /> <!-- Dragonblood_Male_Player Template -->
 					<attribute id="Race" type="guid" value="cbe10ab9-11a6-450e-844a-175bcca25de7" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692652" />
@@ -166,9 +166,9 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e412921a-5bec-48f6-b6ca-b5447b2dc762" /> <!-- Dragonblood_White_Female CharacterVisualBank -->
 					<attribute id="Icon" type="FixedString" value="9aa6009f-995f-5040-e88b-e737b2156e07-_(Icon_Dragonborn_Female)" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="101f3588-8b35-4ca6-ba7b-33216158b3d4" />
+					<attribute id="MapKey" type="FixedString" value="3614d941-f32f-4caa-a051-474165c1c52a" />
 					<attribute id="Name" type="LSString" value="Dragonblood_White_Female_Player" />
-					<attribute id="ParentTemplateId" type="FixedString" value="61943f98-adab-4bfd-91e1-9c20557edc73" /> <!-- Dragonblood_Female_Player Template -->
+					<attribute id="ParentTemplateId" type="FixedString" value="ee0d7289-cad1-4a06-b280-1e3584265a01" /> <!-- Dragonblood_Female_Player Template -->
 					<attribute id="Race" type="guid" value="cbe10ab9-11a6-450e-844a-175bcca25de7" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692652" />

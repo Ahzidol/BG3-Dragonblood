@@ -5,7 +5,7 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="c960d76c-3f4b-50f2-d3a4-1d5ebbf52a19" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="a4d5deef-b773-4ac8-83b2-21c5e9582934" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h2dccc0c3gf40bg4eb4gaa33ge160944d95ef" version="1" />
 					<attribute id="EquipmentRace" type="guid" value="9a8bbeba-850c-402f-bac5-ff15696e6497" />
 					<attribute id="Icon" type="FixedString" value="c960d76c-3f4b-50f2-d3a4-1d5ebbf52a19-_(Icon_Dragonborn_Male)" />
@@ -27,7 +27,7 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="5c858d36-d0d7-55c8-82db-86aa364bd044" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="995cbdf1-1143-4196-9843-e2d37ca6e966" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h333848f7gb670g47b8g8af3g837987633bdb" version="1" />
 					<attribute id="EquipmentRace" type="guid" value="6d38f246-15cb-48b5-9b85-378016a7a78e" />
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Dragonborn_Female" />
@@ -50,7 +50,7 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="6fa0f8f5-f579-64bd-2a8e-800184fc28aa" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="505e53d8-4e78-49f3-9953-cf2cb5cf65d7" />
 					<attribute id="Icon" type="FixedString" value="6fa0f8f5-f579-64bd-2a8e-800184fc28aa-_(Icon_Dragonborn_Male)" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="1f69a29f-8284-4d1d-a0e6-fba9fb02ac56" />
@@ -64,7 +64,7 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="9aa6009f-995f-5040-e88b-e737b2156e07" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="d28a6193-b8fa-4fad-ad1c-60a391c9eedc" />
 					<attribute id="Icon" type="FixedString" value="9aa6009f-995f-5040-e88b-e737b2156e07-_(Icon_Dragonborn_Female)" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="101f3588-8b35-4ca6-ba7b-33216158b3d4" />

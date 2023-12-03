@@ -10,7 +10,7 @@
 					<attribute id="BodySetVisual" type="FixedString" value="9e557ffd-9dd2-863b-876a-1648325850e5" /> <!-- DGB Male Body -->
 					<attribute id="ID" type="FixedString" value="a5df4b8c-8f2e-42f6-a418-b359f6dba88a" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="BASE_Dragonborn_58e12bc7-bdbd-4734-b47d-0ebd01b1f6cf" />
+					<attribute id="Name" type="LSString" value="BASE_Dragonblood" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725457" />
 					<children>
@@ -563,7 +563,7 @@
 					<attribute id="BaseVisual" type="FixedString" value="61889c0b-81c3-730a-7bbc-805119a34957" />
 					<attribute id="BodySetVisual" type="FixedString" value="9e557ffd-9dd2-863b-876a-1648325850e5" />
 					<attribute id="ID" type="FixedString" value="adec83f6-2900-4fa9-99ac-14e0a96c27e8" />
-					<attribute id="Name" type="LSString" value="Dragonborn_Male_Player_87930b5f-a8bf-4fbf-ba7a-b1d37bd7deb0" />
+					<attribute id="Name" type="LSString" value="Dragonblood_Male_Player" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
@@ -774,7 +774,7 @@
 					<attribute id="BaseVisual" type="FixedString" value="479f2bd8-f3df-be15-861c-010d3bb8f494" />
 					<attribute id="BodySetVisual" type="FixedString" value="99911834-d7c2-481e-2eca-202587d6e3a8" />
 					<attribute id="ID" type="FixedString" value="d6710be1-f8d5-4b93-8090-d3b8d97b95e1" />
-					<attribute id="Name" type="LSString" value="Dragonborn_Female_Player_61943f98-adab-4bfd-91e1-9c20557edc73" />
+					<attribute id="Name" type="LSString" value="Dragonblood_Female_Player" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>

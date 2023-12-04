@@ -11,7 +11,7 @@
                     <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
                     <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/>
                     <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/>
-                    <attribute id="RaceUUID" type="guid" value="cb8c572b-a8af-4f28-a672-c43d895aa673"/> <!-- Dragonblood Race -->
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/> <!-- Dragonborn Race -->
                     <attribute id="RootTemplate" type="guid" value="c2a85718-43c3-47b0-b616-abbe45070e16"/> <!-- White Dragonblood Male RootTemplate -->
                     <attribute id="SubRaceUUID" type="guid" value="6b6e7cdd-7efe-4bf2-b04e-4e0bdcec7a3d"/> <!-- White Dragonblood Race -->
                     <attribute id="UUID" type="guid" value="07b9f52b-2bbc-4710-a33a-d333716a54fb"/>
@@ -24,7 +24,7 @@
                     <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
                     <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/>
                     <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/>
-                    <attribute id="RaceUUID" type="guid" value="cb8c572b-a8af-4f28-a672-c43d895aa673"/> <!-- Dragonblood Race -->
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/> <!-- Dragonborn Race -->
                     <attribute id="RootTemplate" type="guid" value="3614d941-f32f-4caa-a051-474165c1c52a"/> <!-- White Dragonblood Female RootTemplate -->
                     <attribute id="SubRaceUUID" type="guid" value="6b6e7cdd-7efe-4bf2-b04e-4e0bdcec7a3d"/> <!-- White Dragonblood Race -->
                     <attribute id="UUID" type="guid" value="ec77a836-ef7f-4087-9883-b7e6708fbd31"/>

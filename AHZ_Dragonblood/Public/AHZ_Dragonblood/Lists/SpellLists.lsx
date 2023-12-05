@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="3" revision="0" build="300"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Dragonborn 1"/>
+                    <attribute id="Spells" type="LSString" value="AHZ_Custom_Spell"/>
+                    <attribute id="UUID" type="guid" value="323e5aa0-d8da-48f5-a449-7f93019fea10"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

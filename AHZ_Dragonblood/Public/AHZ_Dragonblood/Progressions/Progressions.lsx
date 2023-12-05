@@ -6,12 +6,12 @@
             <children>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="1"/>
-                    <attribute id="Name" type="LSString" value="WhiteDragonborn"/>
+                    <attribute id="Name" type="LSString" value="WhiteDragonblood"/>
                     <attribute id="PassivesAdded" type="LSString" value="Dragonborn_Resistance_Cold"/>
                     <attribute id="ProgressionType" type="uint8" value="2"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(63230108-6237-456a-99d5-640180898db5,,Constitution)"/>
-                    <attribute id="TableUUID" type="guid" value="91577000-c8f7-465b-b56f-eb6d87d173d2"/>
-                    <attribute id="UUID" type="guid" value="e557c3b8-7cc1-43f8-bd8a-6838ff01e6d1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(323e5aa0-d8da-48f5-a449-7f93019fea10)"/>
+                    <attribute id="TableUUID" type="guid" value="1e698fbe-1895-40d0-9675-84da9f446671"/>
+                    <attribute id="UUID" type="guid" value="4785fa0a-6864-49e9-bc6d-70e1e28a93c4"/>
                 </node>
             </children>
         </node>

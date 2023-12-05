@@ -3,12 +3,12 @@
 	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids" />
 	<region id="Tags">
 		<node id="Tags">
-			<attribute id="Description" type="LSString" value="Character is really a dragonborn" />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="h023612a9g0de6g44f7gb82eg7d66c58e1a92" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="h42b8eabcg8132g4dfcgb4f6g825593c1021e" version="2" />
+			<attribute id="Description" type="LSString" value="Character looks like a dragonblood." />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h1fc1f274g4e80g403dg9096gf26e45ce5ea8" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hf786c421gbb79g442cgb02fg70d8d601401e" version="2" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="REALLY_DRAGONBORN" />
-			<attribute id="UUID" type="guid" value="39783f17-8484-46a6-aa3b-f3d51122e5f3" />
+			<attribute id="Name" type="FixedString" value="AHZ_DRAGONBLOOD" />
+			<attribute id="UUID" type="guid" value="ea49e482-d15a-48ce-93e0-3029695f624a" />
 			<children>
 				<node id="Categories">
 					<children>

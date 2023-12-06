@@ -3,7 +3,7 @@
 	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
 	<region id="MaterialPresetBank">
 		<node id="MaterialPresetBank">
-			<children>
+			<!-- <children>
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="0832a363-4eab-4405-83e3-a4be106efe3d" />
 					<attribute id="Name" type="LSString" value="SKIN_DGB_AHZ_Pure_White" />
@@ -305,7 +305,7 @@
 									<attribute id="Custom" type="bool" value="False" />
 									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="Parameter" type="FixedString" value="sc_VeinColor" />
-									<attribute id="Value" type="fvec3" value="0 0.147998 1" />
+									<attribute id="Value" type="fvec3" value="0 0 0" />
 								</node>
 								<node id="Vector3Parameters">
 									<attribute id="Color" type="bool" value="True" />
@@ -346,7 +346,7 @@
 						</node>
 					</children>
 				</node>
-			</children>
+			</children> -->
 		</node>
 	</region>
 </save>

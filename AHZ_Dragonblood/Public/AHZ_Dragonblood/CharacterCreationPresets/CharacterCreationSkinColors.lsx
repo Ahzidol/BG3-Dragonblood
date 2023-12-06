@@ -4,14 +4,14 @@
     <region id="CharacterCreationSkinColors">
         <node id="root">
             <children>
-                <node id="CharacterCreationSkinColor">
+                <!-- <node id="CharacterCreationSkinColor">
                     <attribute id="DisplayName" type="TranslatedString" handle="h63e3a873g60e3g43f1gbc26g98ec5c049035" version="2"/>
                     <attribute id="MaterialPresetUUID" type="guid" value="0832a363-4eab-4405-83e3-a4be106efe3d"/>
                     <attribute id="Name" type="FixedString" value="Pure White"/>
                     <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
                     <attribute id="UIColor" type="LSString" value="#FFD1D1D1"/>
                     <attribute id="UUID" type="guid" value="97bd07da-6438-4132-9343-2d1574d9d1ec"/>
-                </node>
+                </node> -->
             </children>
         </node>
     </region>

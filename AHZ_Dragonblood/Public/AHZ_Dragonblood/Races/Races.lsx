@@ -176,6 +176,9 @@
                         <node id="SkinColors">
                             <attribute id="Object" type="guid" value="61cac7cd-f475-4582-a815-e12287ff54cd"/>
                         </node>
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="97bd07da-6438-4132-9343-2d1574d9d1ec"/>
+                        </node>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="ea49e482-d15a-48ce-93e0-3029695f624a"/>
                         </node>

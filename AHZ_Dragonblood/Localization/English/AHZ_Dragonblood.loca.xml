@@ -1,8 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
-	<content contentuid="h32054b82g2f14g4b90g89b5g93d8fc3f10d3" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the snowy aspect and frosty breath of white dragons.</content>
-	<content contentuid="h951f3568g55e2g4272gaa3fge4106496adba" version="1">White Dragonblood</content>
-	<content contentuid="h1fc1f274g4e80g403dg9096gf26e45ce5ea8" version="1">While not true dragons themselves, draconic lineage defines the dragonborn. They inherit powerful breath weapons from their ancestors and possess a preternatural toughness.</content>
-	<content contentuid="hf786c421gbb79g442cgb02fg70d8d601401e" version="1">Dragonblood</content>
-	<content contentuid="h63e3a873g60e3g43f1gbc26g98ec5c049035" version="1">Pure White</content>
+	<content contentuid="h32054b82g2f14g4b90g89b5g93d8fc3f10d3" version="1">Despite no ancestral links to the mighty creatures, these dragon-blooded share the snowy aspect of white dragons.</content>
+	<content contentuid="h951f3568g55e2g4272gaa3fge4106496adba" version="1">White Dragon-Blood</content>
+	<content contentuid="h1fc1f274g4e80g403dg9096gf26e45ce5ea8" version="1">While not true dragons themselves, draconic blood runs through the dragon-blooded. Their hardened scales give them a preternatural toughness.</content>
+	<content contentuid="hf786c421gbb79g442cgb02fg70d8d601401e" version="1">Dragon-Blooded</content>
+	<content contentuid="h125e35e7g3fc7g4f3cgabd2g30d3e1460bae" version="1">Draconic Strength</content>
+	<content contentuid="hb4cccb9ag788eg44cag8b5dg3b4eb6d44028" version="1">Draconic Endurance</content>
+	<content contentuid="he08bd2b6g4e2dg4948g9720g9554aeaee727" version="1">Your &lt;LSTag Tooltip="HitPoints"&gt;hit point&lt;/LSTag&gt; maximum increases by 1 for each Sorcerer level.</content>
+	<content contentuid="hb5d91cd4g8f7dg4894g977eg98b73b3093b6" version="1">Draconic Resilience: Hit Points</content>
 </contentList>

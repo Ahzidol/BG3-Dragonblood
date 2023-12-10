@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="322"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="he08bd2b6g4e2dg4948g9720g9554aeaee727" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb5d91cd4g8f7dg4894g977eg98b73b3093b6" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="IncreaseMaxHP(Level)"/>
+                    <attribute id="ProgressionId" type="guid" value="4785fa0a-6864-49e9-bc6d-70e1e28a93c4"/>
+                    <attribute id="UUID" type="guid" value="587914a3-cdf6-4b76-8491-21b25838ed1a"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h79f2ac1bgb48eg446agaae7g7468663585d0" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf2ac1616gc18ag4736g9182g14d5121ad684" version="1"/>
+                    <attribute id="Hidden" type="bool" value="true"/>
+                    <attribute id="PassivePrototype" type="FixedString" value="AHZ_DraconicResilience"/>
+                    <attribute id="Type" type="FixedString" value="ACOverrideFormula"/>
+                    <attribute id="UUID" type="guid" value="5b579bf7-9f19-457b-831e-6daf5cc2d125"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

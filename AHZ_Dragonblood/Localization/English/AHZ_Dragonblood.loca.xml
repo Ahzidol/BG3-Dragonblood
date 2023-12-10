@@ -6,6 +6,6 @@
 	<content contentuid="hf786c421gbb79g442cgb02fg70d8d601401e" version="1">Dragon-Blooded</content>
 	<content contentuid="h125e35e7g3fc7g4f3cgabd2g30d3e1460bae" version="1">Draconic Strength</content>
 	<content contentuid="hb4cccb9ag788eg44cag8b5dg3b4eb6d44028" version="1">Draconic Endurance</content>
-	<content contentuid="he08bd2b6g4e2dg4948g9720g9554aeaee727" version="1">Your &lt;LSTag Tooltip="HitPoints"&gt;hit point&lt;/LSTag&gt; maximum increases by 1 for each Sorcerer level.</content>
-	<content contentuid="hb5d91cd4g8f7dg4894g977eg98b73b3093b6" version="1">Draconic Resilience: Hit Points</content>
+	<content contentuid="h25b31692g9b69g4530g813age73bc408ba2e" version="1">Your &lt;LSTag Tooltip="HitPoints"&gt;hit point&lt;/LSTag&gt; maximum increases by 1, and increases by 1 again every time you gain a level.</content>
+	<content contentuid="h4d5fafd4gdfaag4de7gaf8dg67187cfc6b51" version="1">Draconic Vitality</content>
 </contentList>

@@ -5,11 +5,18 @@
         <node id="root">
             <children>
                 <node id="ProgressionDescription">
-                    <attribute id="Description" type="TranslatedString" handle="he08bd2b6g4e2dg4948g9720g9554aeaee727" version="2"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hb5d91cd4g8f7dg4894g977eg98b73b3093b6" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="h97c0648bga343g4644g9ea7g76a3551b9fe7" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd65d9a2fgcee6g477cgb1b8g9d8c0a30d0f8" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="1e698fbe-1895-40d0-9675-84da9f446671"/>
+                    <attribute id="Type" type="FixedString" value="WhiteDragonblood"/>
+                    <attribute id="UUID" type="guid" value="adbcf38c-e459-4ba9-8e29-f8238fa0bee4"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h709aa2ceg4c91g4157g96a5g51d8bda8ea0f" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc0e5460cg18a3g41c1g9e38g533a90dafc0f" version="1"/>
                     <attribute id="ExactMatch" type="FixedString" value="IncreaseMaxHP(Level)"/>
-                    <attribute id="ProgressionId" type="guid" value="4785fa0a-6864-49e9-bc6d-70e1e28a93c4"/>
-                    <attribute id="UUID" type="guid" value="587914a3-cdf6-4b76-8491-21b25838ed1a"/>
+                    <attribute id="ProgressionTableId" type="guid" value="1e698fbe-1895-40d0-9675-84da9f446671"/>
+                    <attribute id="UUID" type="guid" value="94681db2-b6e1-49c4-a00b-97b7ad03d71d"/>
                 </node>
                 <node id="ProgressionDescription">
                     <attribute id="Description" type="TranslatedString" handle="h79f2ac1bgb48eg446agaae7g7468663585d0" version="2"/>
@@ -17,7 +24,7 @@
                     <attribute id="Hidden" type="bool" value="true"/>
                     <attribute id="PassivePrototype" type="FixedString" value="AHZ_DraconicResilience"/>
                     <attribute id="Type" type="FixedString" value="ACOverrideFormula"/>
-                    <attribute id="UUID" type="guid" value="5b579bf7-9f19-457b-831e-6daf5cc2d125"/>
+                    <attribute id="UUID" type="guid" value="23d79724-2cb4-4d3a-b998-d20bab6d2b92"/>
                 </node>
             </children>
         </node>

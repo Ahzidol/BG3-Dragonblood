@@ -5,14 +5,13 @@
         <node id="root">
             <children>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(Skill,Intimidation);IncreaseMaxHP(Level)"/>
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(Level)"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="WhiteDragonblood"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Dragonborn_Resistance_Cold;AHZ_DraconicResilience"/>
                     <attribute id="ProgressionType" type="uint8" value="2"/>
-                    <!-- <attribute id="Selectors" type="LSString" value="AddSpells(323e5aa0-d8da-48f5-a449-7f93019fea10)"/> -->
+                    <attribute id="Selectors" type="LSString" value="AddSpells(323e5aa0-d8da-48f5-a449-7f93019fea10)"/>
                     <attribute id="TableUUID" type="guid" value="1e698fbe-1895-40d0-9675-84da9f446671"/>
-                    <attribute id="UUID" type="guid" value="4785fa0a-6864-49e9-bc6d-70e1e28a93c4"/>
+                    <attribute id="UUID" type="guid" value="1573f10e-16b4-42d9-a45d-c131a65491c6"/>
                 </node>
             </children>
         </node>

@@ -13,8 +13,8 @@
                     <attribute id="IgnoreCustomLooks" type="bool" value="true"/>
                     <attribute id="RemoveOldTags" type="bool" value="true"/>
                     <attribute id="RetainDisplayName" type="bool" value="true"/>
-                    <attribute id="RuleName" type="LSString" value="DisguiseKeepName"/>
-                    <attribute id="UUID" type="guid" value="c7c3381e-b901-416e-a0c4-bc745e1ff54a"/>
+                    <attribute id="RuleName" type="LSString" value="AHZ_DisguiseKeepName"/>
+                    <attribute id="UUID" type="guid" value="b29a4a96-f6b9-4c55-a754-5c976cc0aeda"/>
                     <attribute id="UseShapeshiftIdentity" type="bool" value="true"/>
                     <children>
                         <node id="Weight">

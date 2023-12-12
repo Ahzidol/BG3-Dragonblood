@@ -10,7 +10,7 @@
                     <attribute id="Name" type="LSString" value="WhiteDragonblood"/>
                     <attribute id="PassivesAdded" type="LSString" value="Dragonborn_Resistance_Cold;AHZ_DraconicResilience;AHZ_SavageAttacks;AHZ_RelentlessEndurance"/>
                     <attribute id="ProgressionType" type="uint8" value="2"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(cc042746-b503-4229-8963-d08c4c602bf9)"/>
                     <attribute id="TableUUID" type="guid" value="1e698fbe-1895-40d0-9675-84da9f446671"/>
                     <attribute id="UUID" type="guid" value="1573f10e-16b4-42d9-a45d-c131a65491c6"/>
                 </node>

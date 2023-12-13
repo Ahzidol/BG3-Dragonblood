@@ -11,7 +11,7 @@
                     <attribute id="ChangeIcon" type="bool" value="true"/>
                     <attribute id="ChangeRace" type="bool" value="true"/>
                     <attribute id="IgnoreCustomLooks" type="bool" value="true"/>
-                    <attribute id="RemoveOldTags" type="bool" value="true"/>
+                    <attribute id="RemoveOldTags" type="bool" value="false"/>
                     <attribute id="RetainDisplayName" type="bool" value="true"/>
                     <attribute id="RuleName" type="LSString" value="AHZ_DisguiseKeepName"/>
                     <attribute id="UUID" type="guid" value="b29a4a96-f6b9-4c55-a754-5c976cc0aeda"/>

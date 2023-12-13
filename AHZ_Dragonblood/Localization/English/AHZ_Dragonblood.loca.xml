@@ -14,12 +14,12 @@
 	<content contentuid="hd3e8c3e6g3b68g4e10g9beeg3d8e43e108b9" version="4">When you land a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; with a melee weapon attack, you deal an extra dice of weapon damage.</content> <!-- AHZ_SavageAttacks Passive Description -->
 	<content contentuid="h9c3ccfa6gcdeag4c6egb601g57b97a130ad1" version="2">Draconic Tenacity</content> <!-- AHZ_RelentlessEndurance Passive Display Name -->
 	<content contentuid="h86f6f81bg9ef5g4642g9483g42c35a9f95b8" version="2">If you reach 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you regain [1] instead of becoming &lt;LSTag Tooltip="Downed"&gt;Downed&lt;/LSTag&gt;.</content> <!-- AHZ_RelentlessEndurance Passive Description -->
-	<content contentuid="hd55daa90gcf0eg4587g95a7g23066280b458" version="1">Create Façade</content> <!-- AHZ_Shout_DisguiseSelf Spell Display Name -->
-	<content contentuid="hcb9b29eagb321g4105g86aag3accb5ae1135" version="6">Magically change all aspects of your appearance.</content> <!-- AHZ_Shout_DisguiseSelf Spell Description -->
-	<content contentuid="h1b3dfa09g5f88g48e2g8869gcf4076e0ed12" version="1">Dispel Façade</content> <!-- AHZ_Shout_DisguiseSelf_Cancel Spell Display Name -->
-	<content contentuid="h2a1b14cbgafd6g4137gb840g0b75809427cb" version="2">Dispel your façade and revert to your original form.</content> <!-- AHZ_Shout_DisguiseSelf_Cancel Spell Description -->
-	<content contentuid="h48782d39g2876g455bg8c41g89ff7982cbd0" version="2">Create Façade: 1</content> <!-- AHZ_Shout_DisguiseSelf_001 Spell Display Name -->
-	<content contentuid="hbe072411gcda7g45e4g8d35g39d276270cb0" version="2">Create Façade 1.</content> <!-- AHZ_Shout_DisguiseSelf_001 Spell Description -->
-	<content contentuid="hcbe71694g9436g4eebga502gc96a336d74d2" version="1">Façade</content> <!-- AHZ_DISGUISE_SELF_001 Status Display Name -->
-	<content contentuid="haaa21742gad59g4e25g8687g2265bcce179c" version="1">Appearance is entirely changed.</content> <!-- AHZ_DISGUISE_SELF_001 Status Description -->
+	<content contentuid="h3d34f0aaga9a5g469eg8f66g387fb25fc087" version="1">Create Façade</content> <!-- AHZ_Shout_DisguiseSelf Spell Display Name -->
+	<content contentuid="h8e9af012g8f0ag4399g94begf7ff40ec53aa" version="6">Magically change all aspects of your appearance.</content> <!-- AHZ_Shout_DisguiseSelf Spell Description -->
+	<content contentuid="h4b17ff69g13f1g4844ga749g9476470cc278" version="1">Dispel Façade</content> <!-- AHZ_Shout_DisguiseSelf_Cancel Spell Display Name -->
+	<content contentuid="hc58f19bbgcc0ag4135gaf9fgc3e28770222c" version="2">Dispel your façade and revert to your original form.</content> <!-- AHZ_Shout_DisguiseSelf_Cancel Spell Description -->
+	<content contentuid="h561f50d1g6b8ag449fgaff7gffe2e3fe2e47" version="2">Create Façade: 1</content> <!-- AHZ_Shout_DisguiseSelf_001 Spell Display Name -->
+	<content contentuid="hf6cdffaag9326g4eb2gb729gf32547afbcd8" version="2">Create Façade 1.</content> <!-- AHZ_Shout_DisguiseSelf_001 Spell Description -->
+	<content contentuid="hbf7afed6ga980g43a1g863agf96453302d50" version="1">Façade</content> <!-- AHZ_DISGUISE_SELF_001 Status Display Name -->
+	<content contentuid="h9b012a65gec66g4046gad09gcb3754ea4fee" version="1">Appearance is entirely changed.</content> <!-- AHZ_DISGUISE_SELF_001 Status Description -->
 </contentList>

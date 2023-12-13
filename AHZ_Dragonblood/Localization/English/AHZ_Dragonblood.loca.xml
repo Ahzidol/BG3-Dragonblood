@@ -1,17 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
-	<content contentuid="h32054b82g2f14g4b90g89b5g93d8fc3f10d3" version="1">Despite no ancestral links to the mighty creatures, these dragon-blooded share the snowy aspect of white dragons.</content> <!-- White Dragon-Blood SubRace Description -->
 	<content contentuid="h951f3568g55e2g4272gaa3fge4106496adba" version="1">White Dragon-Blood</content> <!-- White Dragon-Blood SubRace Display Name -->
-	<content contentuid="h1fc1f274g4e80g403dg9096gf26e45ce5ea8" version="1">While not true dragons themselves, draconic blood runs through the dragon-blooded. Their hardened scales give them a preternatural toughness.</content> <!-- Dragon-Blood Tag Display Description -->
+	<content contentuid="h32054b82g2f14g4b90g89b5g93d8fc3f10d3" version="1">Despite no ancestral links to the mighty creatures, these dragon-blooded share the snowy aspect of white dragons.</content> <!-- White Dragon-Blood SubRace Description -->
 	<content contentuid="hf786c421gbb79g442cgb02fg70d8d601401e" version="1">Dragon-Blooded</content> <!-- Dragon-Blood Tag Display Name -->
-	<content contentuid="ha125bceag0055g4eefg82ebg70602c952d2d" version="1">Tell Ahzidol if you see this. Test Description</content> <!-- Unknown Progression Description -->
+	<content contentuid="h1fc1f274g4e80g403dg9096gf26e45ce5ea8" version="1">While not true dragons themselves, draconic blood runs through the dragon-blooded. Their hardened scales give them a preternatural toughness.</content> <!-- Dragon-Blood Tag Display Description -->
 	<content contentuid="h4f620563gdedcg489cg9344g8d48c860d61d" version="1">Tell Ahzidol if you see this. Test Display</content> <!-- Unknown Progression Description -->
+	<content contentuid="ha125bceag0055g4eefg82ebg70602c952d2d" version="1">Tell Ahzidol if you see this. Test Description</content> <!-- Unknown Progression Description -->
 	<content contentuid="hef3a76ddg4113g4985gbea4g0dc07d548469" version="1">Your &lt;LSTag Tooltip="HitPoints"&gt;hit point&lt;/LSTag&gt; maximum increases by 1, and increases by 1 again every time you gain a level.</content> <!-- Unknown Progression Description, Description -->
 	<content contentuid="hb7f92517gfcc7g4fbag8cadg1eed668e0c5b" version="1">Draconic Vitality: Hit Points</content> <!-- Hit Point Progression Description Display Name -->
-	<content contentuid="h25b31692g9b69g4530g813age73bc408ba2e" version="2">Draconic scales cover your skin. When you aren't wearing armour, your base &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is 13.</content> <!-- AHZ_DraconicResilience Passive Description -->
 	<content contentuid="h4d5fafd4gdfaag4de7gaf8dg67187cfc6b51" version="1">Draconic Vitality</content> <!-- AHZ_DraconicResilience Passive Display Name -->
-	<content contentuid="hd3e8c3e6g3b68g4e10g9beeg3d8e43e108b9" version="4">When you land a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; with a melee weapon attack, you deal an extra dice of weapon damage.</content> <!-- AHZ_SavageAttacks Passive Description -->
+	<content contentuid="h25b31692g9b69g4530g813age73bc408ba2e" version="2">Draconic scales cover your skin. When you aren't wearing armour, your base &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is 13.</content> <!-- AHZ_DraconicResilience Passive Description -->
 	<content contentuid="hc6dcd2c0g0eceg45e3gb2e1ga67927cb4ae4" version="2">Draconic Strength</content> <!-- AHZ_SavageAttacks Passive Display Name -->
-	<content contentuid="h86f6f81bg9ef5g4642g9483g42c35a9f95b8" version="2">If you reach 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you regain [1] instead of becoming &lt;LSTag Tooltip="Downed"&gt;Downed&lt;/LSTag&gt;.</content> <!-- AHZ_RelentlessEndurance Passive Description -->
+	<content contentuid="hd3e8c3e6g3b68g4e10g9beeg3d8e43e108b9" version="4">When you land a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; with a melee weapon attack, you deal an extra dice of weapon damage.</content> <!-- AHZ_SavageAttacks Passive Description -->
 	<content contentuid="h9c3ccfa6gcdeag4c6egb601g57b97a130ad1" version="2">Draconic Tenacity</content> <!-- AHZ_RelentlessEndurance Passive Display Name -->
+	<content contentuid="h86f6f81bg9ef5g4642g9483g42c35a9f95b8" version="2">If you reach 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you regain [1] instead of becoming &lt;LSTag Tooltip="Downed"&gt;Downed&lt;/LSTag&gt;.</content> <!-- AHZ_RelentlessEndurance Passive Description -->
+	<content contentuid="hd55daa90gcf0eg4587g95a7g23066280b458" version="1">Create Façade</content> <!-- AHZ_Shout_DisguiseSelf Spell Display Name -->
+	<content contentuid="hcb9b29eagb321g4105g86aag3accb5ae1135" version="6">Magically change all aspects of your appearance.</content> <!-- AHZ_Shout_DisguiseSelf Spell Description -->
+	<content contentuid="h1b3dfa09g5f88g48e2g8869gcf4076e0ed12" version="1">Dispel Façade</content> <!-- AHZ_Shout_DisguiseSelf_Cancel Spell Display Name -->
+	<content contentuid="h2a1b14cbgafd6g4137gb840g0b75809427cb" version="2">Dispel your façade and revert to your original form.</content> <!-- AHZ_Shout_DisguiseSelf_Cancel Spell Description -->
+	<content contentuid="h48782d39g2876g455bg8c41g89ff7982cbd0" version="2">Create Façade: 1</content> <!-- AHZ_Shout_DisguiseSelf_001 Spell Display Name -->
+	<content contentuid="hbe072411gcda7g45e4g8d35g39d276270cb0" version="2">Create Façade 1.</content> <!-- AHZ_Shout_DisguiseSelf_001 Spell Description -->
+	<content contentuid="hcbe71694g9436g4eebga502gc96a336d74d2" version="1">Façade</content> <!-- AHZ_DISGUISE_SELF_001 Status Display Name -->
+	<content contentuid="haaa21742gad59g4e25g8687g2265bcce179c" version="1">Appearance is entirely changed.</content> <!-- AHZ_DISGUISE_SELF_001 Status Description -->
 </contentList>

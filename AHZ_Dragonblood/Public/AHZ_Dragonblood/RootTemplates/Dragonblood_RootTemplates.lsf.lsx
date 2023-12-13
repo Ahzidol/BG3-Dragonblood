@@ -36,14 +36,14 @@
 				</node>
 				<!-- AHZ_DISGUISE_SELF_001 -->
 				<node id="GameObjects">
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="40b6c0b8-693d-3726-6819-acbc8481f208" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="437b1cc4-526c-40f8-9d93-6a036c98de41" /> <!-- AHZ_DISGUISE_SELF_001 CharacterVisualBank -->
 					<attribute id="Faction" type="guid" value="6545a015-1b3d-66a4-6a0e-6ec62065cdb7" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Icon" type="FixedString" value="40b6c0b8-693d-3726-6819-acbc8481f208-_(Icon_Human_Male)" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="fd7f2707-8f86-4836-bda8-e0db99c389cc" />
+					<attribute id="MapKey" type="FixedString" value="009d1f47-8daa-457b-b54b-a9b8fef06857" />
 					<attribute id="Name" type="LSString" value="Humans_Male_Player" />
-					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" />
+					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" /> <!-- BASE_Humans_Male-->
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="71aaadda-22e0-f962-14ff-f57d57a2e726" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="Stats" type="FixedString" value="HeroHumanMale" />
@@ -51,30 +51,6 @@
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 					<children>
 						<node id="LocomotionParams" />
-						<node id="SpeakerGroupList">
-							<children>
-								<node id="SpeakerGroup">
-									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
-								</node>
-								<node id="SpeakerGroup">
-									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
-								</node>
-							</children>
-						</node>
-						<node id="TradeTreasures">
-							<children>
-								<node id="TreasureItem">
-									<attribute id="Object" type="FixedString" value="Empty" />
-								</node>
-							</children>
-						</node>
-						<node id="Treasures">
-							<children>
-								<node id="TreasureItem">
-									<attribute id="Object" type="FixedString" value="Empty" />
-								</node>
-							</children>
-						</node>
 					</children>
 				</node>
 			</children>

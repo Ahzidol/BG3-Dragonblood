@@ -39,12 +39,12 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="437b1cc4-526c-40f8-9d93-6a036c98de41" /> <!-- AHZ_DISGUISE_SELF_001 CharacterVisualBank -->
 					<attribute id="Faction" type="guid" value="6545a015-1b3d-66a4-6a0e-6ec62065cdb7" />
 					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="Icon" type="FixedString" value="40b6c0b8-693d-3726-6819-acbc8481f208-_(Icon_Human_Male)" />
+					<attribute id="Icon" type="FixedString" value="437b1cc4-526c-40f8-9d93-6a036c98de41-_(Icon_Human_Male)" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="009d1f47-8daa-457b-b54b-a9b8fef06857" />
-					<attribute id="Name" type="LSString" value="Humans_Male_Player" />
+					<attribute id="Name" type="LSString" value="AHZ_Humans_Male_Player" />
 					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" /> <!-- BASE_Humans_Male-->
-					<attribute id="PortraitVisualResourceID" type="FixedString" value="71aaadda-22e0-f962-14ff-f57d57a2e726" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="437b1cc4-526c-40f8-9d93-6a036c98de41" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="Stats" type="FixedString" value="HeroHumanMale" />
 					<attribute id="Type" type="FixedString" value="character" />

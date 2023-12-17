@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="AnimationSourceId">
+    <node id="root">
+      <attribute id="MaterialResourceID" type="guid" value="63fe60f6-b287-ec9d-e194-bcb69b673781" />
+      <attribute id="Name" type="FixedString" value="VFX_Cinematic_Overlay_CHAR_WISP_Fire_EVIL_01" />
+      <children>
+        <node id="strMaterialReference">
+          <attribute id="Key" type="guid" value="1d4b2210-9344-ed35-2f1a-30f2f43a1399" />
+          <attribute id="VisualResourceID" type="guid" value="dde369c9-2163-4860-8ec3-4672ef89ee0c" />
+        </node>
+        <node id="strMaterialReference">
+          <attribute id="Key" type="guid" value="44a1ffcb-5b5f-50c2-f5ab-1abf713c9095" />
+          <attribute id="VisualResourceID" type="guid" value="38cee76d-1a75-4419-9293-52e47fda65e9" />
+        </node>
+        <node id="strMaterialReference">
+          <attribute id="Key" type="guid" value="754506ed-2ed9-4ff1-9aac-75151ad5bf47" />
+          <attribute id="VisualResourceID" type="guid" value="678f41b4-213b-4296-b2c3-daf083cc5b5a" />
+        </node>
+        <node id="strMaterialReference">
+          <attribute id="Key" type="guid" value="8bbce9e5-99ef-48e5-8c96-40f54bfe422c" />
+          <attribute id="VisualResourceID" type="guid" value="4a742b40-a970-481e-98f7-a7568a93ae82" />
+        </node>
+        <node id="strMaterialReference">
+          <attribute id="Key" type="guid" value="b35bb941-7cad-4e4a-947d-1659996759c9" />
+          <attribute id="VisualResourceID" type="guid" value="47cd8c42-b125-43c5-b8e9-71e1e247f1bf" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

@@ -370,11 +370,11 @@
 				</node>
 				<!-- AHZ_DISGUISE_SELF_001 -->
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="3773c64c-c5a9-9baf-1b85-6bee029ee044" />
-					<attribute id="BodySetVisual" type="FixedString" value="38cee76d-1a75-4419-9293-52e47fda65e9" />
+					<attribute id="BaseVisual" type="FixedString" value="3773c64c-c5a9-9baf-1b85-6bee029ee044" /> <!-- HUM_M_Base Animations (Characters\[PAK]_Male_Body) -->
+					<attribute id="BodySetVisual" type="FixedString" value="38cee76d-1a75-4419-9293-52e47fda65e9" /> <!-- HUM_M_NKD_Body_A Body Model (Characters\[PAK]_Male_Body) -->
 					<attribute id="ID" type="FixedString" value="437b1cc4-526c-40f8-9d93-6a036c98de41" />
 					<attribute id="Name" type="LSString" value="AHZ_DISGUISE_SELF_001" />
-					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" /> <!-- Display Armour -->
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
 						<node id="MaterialOverrides">
@@ -386,22 +386,138 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="c66f5672-e40c-1da4-0bfe-2947e5a5cd0d" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="a3ab9dc8-375b-4670-8c0a-690231232961" /> <!-- Skin Tone (CharacterCreationSkinColors) -->
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="62b1c4c9-a8d4-3132-b3a6-1e3294a6551a" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="47ffccab-d447-8949-3e00-83162847d561" /> <!-- Eye Colour (CharacterCreationEyeColors) -->
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="03Hair" />
 											<attribute id="MapKey" type="FixedString" value="03Hair" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="90a01929-a5ef-01a7-c22d-000245888f0e" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="90a01929-a5ef-01a7-c22d-000245888f0e" /> <!-- Hair Colour (CharacterCreationHairColors) -->
 										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="05Makeup" />
+											<attribute id="MapKey" type="FixedString" value="05Makeup" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="7abc73e3-284e-8f18-f65a-8d679a762198" />
+										</node>
+										<!-- <node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="07Scars" />
+											<attribute id="MapKey" type="FixedString" value="07Scars" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="f0f96842-7f49-ce4c-bc74-e15582d7b4a0" /> Scarring (CharacterCreationAppearanceMaterials)
+										</node> -->
+										<!-- <node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="False" />
+											<attribute id="GroupName" type="FixedString" value="04Tattoo" />
+											<attribute id="MapKey" type="FixedString" value="04Tattoo" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="5f95d463-6258-ed73-9bcd-3bb6c6277f2d" /> Tattoo Style (CharacterCreationAppearanceMaterials)
+										</node> -->
 									</children>
 								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Age_Weight" /> <!-- Maturity -->
+									<attribute id="Value" type="float" value="0.0" /> <!-- 0.0 -> 0.5 -->
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Freckles" /> <!-- Freckle Quantity -->
+									<attribute id="Value" type="float" value="0.0" /> <!-- 0.0 -> 1.0 -->
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="FrecklesWeight" /> <!-- Freckle Intensity -->
+									<attribute id="Value" type="float" value="0.0" /> <!-- 0.0 -> 0.5 -->
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Vitiligo" /> <!-- Vitiligo -->
+									<attribute id="Value" type="float" value="0.0" /> <!-- 0.0 -> 1.0 -->
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="EyeMakeup" />
+									<attribute id="Value" type="fvec3" value="0.349020 0.000000 0.015686" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="MakeupIntensity" />
+									<attribute id="Value" type="float" value="0.2" />
+								</node>
+								<!-- <node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="TattooColor" />
+									<attribute id="Value" type="fvec3" value="0 0 0" />
+								</node>
+								<node id="VectorParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="TattooIntensity" />
+									<attribute id="Value" type="fvec4" value="1 0 0 0" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Heterochromia" />
+									<attribute id="Value" type="float" value="1" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_IrisColour" />
+									<attribute id="Value" type="fvec3" value="0.1572807 0.05818718 0.01991784" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_IrisSecondaryColour" />
+									<attribute id="Value" type="fvec3" value="0.3021255 0.173439 0.1087112" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_IrisColour_L" />
+									<attribute id="Value" type="fvec3" value="0.0602739 0.3079579 0.7427227" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_IrisSecondaryColour_L" />
+									<attribute id="Value" type="fvec3" value="0.04439873 0.9446566 1" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_ScleraColour" />
+									<attribute id="Value" type="fvec3" value="0.2590273 0.1869885 0.1061561" />
+								</node> -->
 								<node id="ScalarParameters">
 									<attribute id="Color" type="bool" value="False" />
 									<attribute id="Custom" type="bool" value="True" />
@@ -632,7 +748,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="5bd07e0f-bfac-568b-840c-9c5a50146648" />
+							<attribute id="VisualResource" type="FixedString" value="678f41b4-213b-4296-b2c3-daf083cc5b5a" /> <!-- Head (CharacterCreationAppearanceVisuals) -->
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -642,12 +758,12 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="0d1b6322-1e78-e5aa-866d-ac7b98a25a38" />
+							<attribute id="VisualResource" type="FixedString" value="8c4000af-79e7-4a5a-9d6c-88f0ff6b89d4" /> <!-- Hair (CharacterCreationAppearanceVisuals) -->
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
-							<attribute id="VisualResource" type="FixedString" value="6236e77f-6127-5de9-d390-72b0ed12d1fd" />
+							<attribute id="VisualResource" type="FixedString" value="6236e77f-6127-5de9-d390-72b0ed12d1fd" /> <!-- Genitals (CharacterCreationAppearanceVisuals) -->
 						</node>
 					</children>
 				</node>

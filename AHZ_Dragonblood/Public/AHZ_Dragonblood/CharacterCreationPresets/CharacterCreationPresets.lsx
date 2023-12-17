@@ -33,12 +33,12 @@
                 <!-- AHZ_DISGUISE_SELF_001 Preset  -->
                 <node id="CharacterCreationPreset">
                     <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/> <!-- Male Body -->
+                    <attribute id="BodyType" type="uint8" value="0"/>  Male Body 
                     <attribute id="CloseUpA" type="LSString" value="HUM_M_Camera_Closeup_A"/>
                     <attribute id="CloseUpB" type="LSString" value="HUM_M_Camera_Closeup_B"/>
                     <attribute id="Overview" type="LSString" value="HUM_M_Camera_Overview_A"/>
-                    <attribute id="RaceUUID" type="guid" value="0eb594cb-8820-4be6-a58d-8be7a1a98fba"/> <!-- Human -->
-                    <attribute id="RootTemplate" type="guid" value="009d1f47-8daa-457b-b54b-a9b8fef06857"/> <!-- AHZ_DISGUISE_SELF_001 RootTemplate -->
+                    <attribute id="RaceUUID" type="guid" value="0eb594cb-8820-4be6-a58d-8be7a1a98fba"/> Human 
+                    <attribute id="RootTemplate" type="guid" value="009d1f47-8daa-457b-b54b-a9b8fef06857"/>AHZ_DISGUISE_SELF_001 RootTemplate
                     <attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <attribute id="UUID" type="guid" value="5752b554-dd1c-4041-b6b5-49f88c65d178"/>
                     <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>

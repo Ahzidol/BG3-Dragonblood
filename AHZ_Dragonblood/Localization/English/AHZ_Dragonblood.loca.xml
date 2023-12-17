@@ -14,6 +14,8 @@
 	<content contentuid="hd3e8c3e6g3b68g4e10g9beeg3d8e43e108b9" version="4">When you land a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; with a melee weapon attack, you deal an extra dice of weapon damage.</content> <!-- AHZ_SavageAttacks Passive Description -->
 	<content contentuid="h9c3ccfa6gcdeag4c6egb601g57b97a130ad1" version="2">Draconic Tenacity</content> <!-- AHZ_RelentlessEndurance Passive Display Name -->
 	<content contentuid="h86f6f81bg9ef5g4642g9483g42c35a9f95b8" version="2">If you reach 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you regain [1] instead of becoming &lt;LSTag Tooltip="Downed"&gt;Downed&lt;/LSTag&gt;.</content> <!-- AHZ_RelentlessEndurance Passive Description -->
+	<content contentuid="h12bd5e86g509cg438agb1bfg9e8336b7bb98" version="2">Civil Militia</content> <!-- AHZ_HumanMilitia Passive Display Name -->
+	<content contentuid="h359cc651g8941g4b65ga1a3g9e64ec1ecdfd" version="6">You have &lt;LSTag Tooltip="WeaponProficiency"&gt;Weapon Proficiency&lt;/LSTag&gt; with spears, pikes, halberds, and glaives, and &lt;LSTag Tooltip="ArmourProficiency"&gt;Armour Proficiency&lt;/LSTag&gt; with Light Armour and Shields.</content> <!-- AHZ_HumanMilitia Passive Description -->
 	<content contentuid="h3d34f0aaga9a5g469eg8f66g387fb25fc087" version="1">Create Façade</content> <!-- AHZ_Shout_DisguiseSelf Spell Display Name -->
 	<content contentuid="h8e9af012g8f0ag4399g94begf7ff40ec53aa" version="6">Magically change all aspects of your appearance.</content> <!-- AHZ_Shout_DisguiseSelf Spell Description -->
 	<content contentuid="h4b17ff69g13f1g4844ga749g9476470cc278" version="1">Dispel Façade</content> <!-- AHZ_Shout_DisguiseSelf_Cancel Spell Display Name -->
